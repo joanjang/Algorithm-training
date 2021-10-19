@@ -7,6 +7,7 @@
 ```javascript
 {
     started: '2021/08/24',
+    language: 'javascript',
     rules: [
         '하루에 한 번씩은 문제를 풀도록 노력한다.',
         '반드시 1일 1커밋하지 않아도 되니 혼자 힘으로 최대한 해결해본다.',
