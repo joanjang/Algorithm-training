@@ -20,9 +20,11 @@
 
 1. Beginner1
     - [백준 단계별 문제](https://www.acmicpc.net/step)
+    - 13 programmers
+        - [프로그래머스 Level 1](https://programmers.co.kr/learn/challenges)
 2. Beginner2
     - boj
         - [백준 기초 1/1](https://code.plus/course/41)
         - [백준 기초 1/2](https://code.plus/course/42)
     - programmers
-        - [프로그래머스 Level 2](https://programmers.co.kr/learn/challenges?tab=all_challenges)
+        - [프로그래머스 Level 2](https://programmers.co.kr/learn/challenges)
