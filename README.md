@@ -16,15 +16,13 @@
 }
 ```
 
-## 디렉토리별 참고 사이트
+## 폴더별 알고리즘 사이트
 
-1. Beginner1
-    - [백준 단계별 문제](https://www.acmicpc.net/step)
-    - 13 programmers
-        - [프로그래머스 Level 1](https://programmers.co.kr/learn/challenges)
-2. Beginner2
+- Beginner1
+    - 1 ~ 12 [백준 단계별 문제](https://www.acmicpc.net/step)
+    - 13 programmers [프로그래머스 Level 1](https://programmers.co.kr/learn/challenges)
+- Beginner2
     - boj
         - [백준 기초 1/1](https://code.plus/course/41)
         - [백준 기초 1/2](https://code.plus/course/42)
-    - programmers
-        - [프로그래머스 Level 2](https://programmers.co.kr/learn/challenges)
+    - programmers [프로그래머스 Level 2](https://programmers.co.kr/learn/challenges)
