@@ -19,7 +19,7 @@
 ## 디렉토리별 참고 사이트
 
 1. Beginner1
-    - [백준 단계별 문제](https://www.acmicpc.net/step)
+    - 1 ~ 12. [백준 단계별 문제](https://www.acmicpc.net/step)
     - 13 programmers
         - [프로그래머스 Level 1](https://programmers.co.kr/learn/challenges)
 2. Beginner2
