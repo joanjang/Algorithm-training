@@ -20,10 +20,10 @@ const solution = (N, A) => {
         lastMax = 0;
 
     for (let i = 0; i < A.length; i++) {
-        const val = A[i];
-        if (val <= N) {
-            if (result[val - 1] < lastMax) result[val - 1] = lastMax;
-            if (max < ++result[val - 1]) max = result[val - 1];
+        const index = A[i] - 1;
+        if (index < N) {
+            if (result[index] < lastMax) result[index] = lastMax;
+            if (max < ++result[index]) max = result[index];
         } else lastMax = max;
     }
 
