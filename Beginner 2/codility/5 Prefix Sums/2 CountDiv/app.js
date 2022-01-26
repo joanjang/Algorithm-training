@@ -12,7 +12,7 @@ const input = require('fs')
 
 // 시간복잡도: O(1)
 const solution = (A, B, K) => {
-    let count = Math.floor(B / K) - Math.floor(A / K);
+    const count = Math.floor(B / K) - Math.floor(A / K);
     return A % K === 0 ? count + 1 : count;
 };
 
